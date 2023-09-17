@@ -1,20 +1,3 @@
-elle est vieille .	she is old .
-elle est tranquille .	she is quiet .
-elle a tort .	she is wrong .
-elle est canadienne .	she is canadian .
-elle est japonaise .	she is japanese .
-ils sont russes .	they are russian .
-ils se disputent .	they are arguing .
-ils regardent .	they are watching .
-ils sont acteurs .	they are actors .
-elles sont crevees .	they are exhausted .
-il est mon genre !	he is my type !
-il a des ennuis .	he is in trouble .
-c est mon frere .	he is my brother .
-c est mon oncle .	he is my uncle .
-il a environ mon age .	he is about my age .
-elles sont toutes deux bonnes .	they are both good .
-elle est bonne nageuse .	she is a good swimmer .
-c est une personne adorable .	he is a lovable person .
-il fait du velo .	he is riding a bicycle .
-ils sont de grands amis .	they are great friends .
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fbdf9bbb0dc1f31adb0af10a49c2aa9799de565e1d4bd71257a856d4dc9dbfc
+size 806
