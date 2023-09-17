@@ -1,0 +1,3 @@
+[submodule "SRP/bert-base-chinese"]
+	path = SRP/bert-base-chinese
+	url = https://huggingface.co/bert-base-chinese
