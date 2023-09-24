@@ -1,3 +1,6 @@
-[submodule "SRP/bert-base-chinese"]
-	path = SRP/bert-base-chinese
-	url = https://huggingface.co/bert-base-chinese
+[submodule "SRP/chinese-electra-base-discriminator"]
+	path = SRP/chinese-electra-base-discriminator
+	url = https://huggingface.co/hfl/chinese-electra-base-discriminator
+[submodule "SRP/evaluate"]
+	path = SRP/evaluate
+	url = https://github.com/huggingface/evaluate.git
