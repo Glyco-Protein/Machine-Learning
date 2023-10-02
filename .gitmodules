@@ -7,3 +7,6 @@
 [submodule "SRP/bert-base-cased"]
 	path = SRP/bert-base-cased
 	url = https://huggingface.co/bert-base-cased
+[submodule "SRP/gpt2"]
+	path = SRP/gpt2
+	url = https://huggingface.co/gpt2
